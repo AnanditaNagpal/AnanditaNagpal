@@ -771,7 +771,7 @@ Performance: Optimized Loading
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanditaNagpal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnanditaNagpal&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&layout=compact" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanditaNagpal&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=6" width="100%"/>
 </td>
 </tr>
 </table>
