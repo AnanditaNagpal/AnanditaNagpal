@@ -752,20 +752,58 @@ Performance: Optimized Loading
 
 ## 📈 **GITHUB PERFORMANCE ANALYTICS**
 
-<table>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![Go](https://img.shields.io/badge/Go-Advanced-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)
+![Scala](https://img.shields.io/badge/Scala-Advanced-DC322F?style=for-the-badge&logo=scala&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)
+![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+
+<br/>
+
+<table align="center">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AnanditaNagpal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&ring_color=F85D7F" width="100%"/>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/Total_Commits-835+-F85D7F?style=for-the-badge&labelColor=0D1117"/>
 </td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=AnanditaNagpal&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFF" width="100%"/>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/Longest_Streak-10_Days-F8D866?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/Repositories-Active-00D4AA?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/Patents_Filed-2-blueviolet?style=for-the-badge&labelColor=0D1117"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanditaNagpal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8" width="60%"/>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🤖_Gen_AI_%26_LLMs-LangChain_%7C_OpenAI_%7C_Vector_DBs-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⚙️_Distributed_Systems-Kafka_%7C_Flink_%7C_Spark_%7C_Kubernetes-61DAFB?style=for-the-badge&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌐_Full_Stack-FastAPI_%7C_Node.js_%7C_MongoDB_%7C_Redis-4ECDC4?style=for-the-badge&labelColor=0D1117"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🖐️_Multimodal_HCI-OpenCV_%7C_MediaPipe_%7C_PyAutoGUI-F8D866?style=for-the-badge&labelColor=0D1117"/>
+</td>
+</tr>
+</table>
 
 </div>
 
