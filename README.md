@@ -12,6 +12,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=ANANDITA%20NAGPAL&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20CCE%20ENGINEER%20◉%20AI%20INNOVATOR%20◉%20WEB%20DEVELOPER%20◉&descSize=18&descAlign=50&descAlignY=75" />
 
+</div>
+
 <br/>
 
 <!-- Animated Code Terminal -->
@@ -19,17 +21,18 @@
 ```bash
 ┌─[anandita@tech-innovator]─[~/projects/ai-systems]
 └──╼ $ whoami
-CCE Engineering Student | AI Enthusiast | Full-Stack Developer
+CCE Engineering Student | AI Enthusiast | Full-Stack Developer | 2x Patent Inventor
 
 ┌─[anandita@tech-innovator]─[~/education]
 └──╼ $ ls -la
 total 2025
 drwxr-xr-x  B.Tech Computer & Communication Engineering
 drwxr-xr-x  Manipal University Jaipur (2023-2027)
-drwxr-xr-x  IEEE Student Member
--rw-r--r--  Multiple AI/ML Projects Deployed
--rw-r--r--  Full-Stack Web Applications Built
--rw-r--r--  Cybersecurity & IoT Exploration
+drwxr-xr-x  IEEE AESS Joint General Secretary
+-rw-r--r--  2x Filed Indian Patents
+-rw-r--r--  Dean's Excellence Award Recipient
+-rw-r--r--  Certificate of Excellence in Research & Innovation
+-rw-r--r--  2x Product-Stage Startup Internships
 
 ┌─[anandita@tech-innovator]─[~/vision]
 └──╼ $ cat mission.txt
@@ -38,6 +41,8 @@ Building the future, one line of code at a time ✨
 ```
 
 <br/>
+
+<div align="center">
 
 <!-- Elite Contact Matrix -->
 <table align="center">
@@ -94,22 +99,25 @@ class CCEEngineer implements Innovator {
     degree: "B.Tech in Computer & Communication Engineering",
     university: "Manipal University Jaipur",
     batch: "2023-2027",
-    currentYear: "2nd Year",
+    currentYear: "3rd Year",
     specializations: [
-      "Artificial Intelligence",
-      "Web Development", 
-      "Communication Systems",
-      "Cybersecurity"
+      "Distributed Systems",
+      "Applied Machine Learning",
+      "Multimodal HCI",
+      "Generative AI",
+      "Cybersecurity & IoT"
     ],
-    memberships: ["IEEE Student Member"],
+    memberships: ["IEEE AESS — Joint General Secretary"],
+    patents: 2,
+    internships: ["F1Jobs.io (Gen AI)", "NeuraScribe.ai (Full Stack)"],
   };
 
   public getCurrentFocus(): string[] {
     return [
-      "🤖 Building AI-powered applications",
-      "🌐 Developing full-stack web solutions",
-      "🔐 Exploring cybersecurity domains",
-      "📡 Understanding communication protocols"
+      "🤖 Building LangChain agentic AI pipelines",
+      "🌐 Developing full-stack SaaS solutions",
+      "📡 Stream processing & distributed systems",
+      "🔬 Research & patent innovation"
     ];
   }
 
@@ -126,22 +134,22 @@ class CCEEngineer implements Innovator {
 
 ```python
 student_achievements = {
-    'projects': {
-        'ai_applications': 3,
-        'web_platforms': 3,
-        'domains': ['AI/ML', 'Web Dev', 'IoT', 'Cybersecurity'],
-        'tech_stack_size': '15+ technologies'
+    'patents': {
+        'filed': 2,
+        'titles': [
+          'Predictive Failure Detection in Stream Processing',
+          'IoT-Enabled NFC & GPS Dynamic Aadhaar Smartcard'
+        ],
     },
-    'expertise': {
-        'programming': ['Python', 'C/C++', 'Java', 'JavaScript'],
-        'frameworks': ['React', 'Flask', 'TensorFlow'],
-        'specialties': ['AI Chatbots', 'NLP', 'Full-Stack Development'],
-        'problem_solving': 'HackerRank Active'
+    'experience': {
+        'internships': ['F1Jobs.io — Gen AI Engineer', 'NeuraScribe.ai — Full Stack'],
+        'frameworks': ['LangChain', 'FastAPI', 'TensorFlow', 'PyTorch', 'OpenCV'],
+        'specialties': ['Agentic AI', 'Vector DBs', 'Multimodal HCI', 'Microservices'],
     },
-    'impact': {
-        'smart_systems': 'Multiple AI solutions deployed',
-        'web_apps': 'Responsive, user-friendly interfaces',
-        'innovation': 'Bridging AI with real-world applications'
+    'achievements': {
+        'awards': ["Dean's Excellence Award", "Certificate of Excellence in R&I"],
+        'leadership': 'IEEE AESS Joint General Secretary',
+        'languages': ['Python', 'Go', 'Scala', 'C/C++', 'JavaScript', 'SQL'],
     }
 }
 
@@ -168,10 +176,10 @@ print(f"Status: Building the future 🚀")
 
 <table>
 <tr><td>🚀</td><td><b>Active Projects</b></td><td><img src="https://img.shields.io/badge/6+-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>⭐</td><td><b>Technologies</b></td><td><img src="https://img.shields.io/badge/15+-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🤖</td><td><b>AI Projects</b></td><td><img src="https://img.shields.io/badge/3+-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🌐</td><td><b>Web Apps</b></td><td><img src="https://img.shields.io/badge/3+-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>📈</td><td><b>Learning Path</b></td><td><img src="https://img.shields.io/badge/Growing-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⭐</td><td><b>Technologies</b></td><td><img src="https://img.shields.io/badge/20+-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🤖</td><td><b>AI Projects</b></td><td><img src="https://img.shields.io/badge/5+-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📜</td><td><b>Patents Filed</b></td><td><img src="https://img.shields.io/badge/2-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🏆</td><td><b>Awards</b></td><td><img src="https://img.shields.io/badge/2-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
 </table>
 
 </td>
@@ -181,9 +189,9 @@ print(f"Status: Building the future 🚀")
 
 <table>
 <tr><td>🐍</td><td><b>Python</b></td><td><img src="https://img.shields.io/badge/Advanced-3776AB?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>⚛️</td><td><b>Web Dev</b></td><td><img src="https://img.shields.io/badge/Proficient-61DAFB?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🤖</td><td><b>AI/ML</b></td><td><img src="https://img.shields.io/badge/Growing-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>💾</td><td><b>DSA</b></td><td><img src="https://img.shields.io/badge/Strong-FF9500?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🤖</td><td><b>Gen AI / LLMs</b></td><td><img src="https://img.shields.io/badge/Proficient-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⚙️</td><td><b>Distributed Systems</b></td><td><img src="https://img.shields.io/badge/Strong-61DAFB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🌐</td><td><b>Full Stack</b></td><td><img src="https://img.shields.io/badge/Proficient-FF9500?style=for-the-badge&labelColor=0D1117"/></td></tr>
 <tr><td>📊</td><td><b>Problem Solving</b></td><td><img src="https://img.shields.io/badge/Active-9B59B6?style=for-the-badge&labelColor=0D1117"/></td></tr>
 </table>
 
@@ -195,10 +203,152 @@ print(f"Status: Building the future 🚀")
 
 **🏆 MILESTONES:**
 <img src="https://img.shields.io/badge/🎓_MUJ_CCE_Student-success?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/🔬_IEEE_Member-blue?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/💻_Active_Developer-purple?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/📜_2x_Patent_Inventor-blue?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🔬_IEEE_AESS_Secretary-purple?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🏆_Dean's_Excellence_Award-gold?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
+
+---
+
+<!-- Experience Section -->
+<div align="center">
+
+## 💼 **PROFESSIONAL EXPERIENCE**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🤖 **F1JOBS.IO**
+
+**Generative AI Engineer Intern**
+
+<img src="https://img.shields.io/badge/May–July_2025-Remote-blueviolet?style=for-the-badge&labelColor=2C3E50"/>
+
+</div>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+AI: LangChain · Agentic Workflows · LLMs
+Search: Vector Databases · Semantic Search
+Focus: Prompt Engineering · Hallucination Mitigation
+Domain: Recruitment AI · Candidate Screening
+```
+
+**📊 KEY CONTRIBUTIONS**
+
+- 🧠 **Agentic Pipelines**: Built end-to-end Gen AI pipelines for semantic job-matching and automated candidate screening
+- 🔍 **Vector Search**: Integrated vector databases for high-dimensional semantic search across job listings
+- ✅ **Reliability**: Designed prompt engineering strategies and hallucination mitigation checks for a user-facing product
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛠️ **NEURASCRIBE.AI**
+
+**Full Stack Engineer Intern**
+
+<img src="https://img.shields.io/badge/June–August_2024-Remote-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
+
+</div>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+Backend: RESTful APIs · LLM APIs · Cloud Infra
+Frontend: Responsive UI · Modular Components
+DevOps: Deployment Pipelines · Cloud Provisioning
+Domain: SaaS · AI Transcription · Note Generation
+```
+
+**📊 KEY CONTRIBUTIONS**
+
+- 🎙️ **AI Features**: Developed AI-powered transcription and intelligent note-generation using LLM APIs in production
+- 🌐 **Full Stack**: Built responsive frontend interfaces and RESTful backend services
+- 🚀 **DevOps**: Contributed to cloud infrastructure provisioning and deployment pipeline optimisation
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Patents Section -->
+<div align="center">
+
+## 📜 **PATENTS**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ⚡ **PREDICTIVE FAILURE DETECTION**
+
+**Real-Time Stream Processing Pipelines**
+
+<img src="https://img.shields.io/badge/Filed-2026-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
+
+</div>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+ML: LSTM + Gradient Boosted Tree Ensemble (F1 > 0.92)
+Thresholding: Adaptive Bayesian
+Orchestration: Proactive Hot-Standby
+Agent: JVM Byte-Buddy Instrumentation
+Compatible: Apache Flink · Kafka Streams · Spark
+```
+
+**📊 KEY INNOVATIONS**
+
+- ⚡ **Sub-50ms failover** vs. 5–30s industry baseline
+- 💰 **60–80% resource cost reduction**
+- 🔧 **Framework-agnostic** JVM instrumentation agent
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🪪 **IoT DYNAMIC AADHAAR SMARTCARD**
+
+**NFC & GPS-Based Address Authentication**
+
+<img src="https://img.shields.io/badge/Filed_Nov_2025-Published_Dec_2025-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
+
+</div>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+Hardware: NFC · Live GPS · IoT Device
+Function: Real-Time Address Authentication
+Feature: Dynamic Aadhaar Address Updating
+Impact: Eliminates Manual Document Submission
+```
+
+**📊 KEY INNOVATIONS**
+
+- 📡 **NFC + GPS** integration for real-time authentication
+- 🔄 **Dynamic updating** of Aadhaar address records
+- 🏛️ **Eliminates** manual document submission for address changes
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -215,72 +365,56 @@ print(f"Status: Building the future 🚀")
 
 <div align="center">
 
-### 🤖 **NEURABOT 2.0**
+### 🖐️ **ANNA**
 
-**Next-Gen AI Conversational Platform**
+**Advanced Neural Navigation Assistant**
 
-<img src="https://img.shields.io/badge/AI_Innovation-Intelligent_Conversations-blueviolet?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Multimodal_HCI-Touchless_Control-blueviolet?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Frontend: HTML5 • CSS3 • JavaScript
-AI Core: Natural Language Processing
-Features: Context-Aware • Learning Engine
-Architecture: Modular • Scalable Design
+Vision: OpenCV · MediaPipe
+Voice: SpeechRecognition · NLTK
+Control: PyAutoGUI
+Mode: Fully Offline · No Cloud Required
 ```
 
 **📊 KEY INNOVATIONS**
 
-- ✨ **Advanced NLP**: Context-aware conversation engine
-- 🧠 **Smart Learning**: Adaptive response generation
-- ⚡ **Real-time Processing**: Instant user interactions
-- 🎨 **Modern UI/UX**: Intuitive interface design
-
-**🎯 TECHNICAL HIGHLIGHTS**
-
-- Neural network-inspired conversation flow
-- Dynamic response generation algorithms
-- User sentiment analysis integration
-- Seamless chat experience optimization
+- 🎙️ **Voice Pipeline**: ~87% recognition accuracy, 1.2s avg end-to-end latency
+- 🖐️ **Gesture Engine**: 91.3% accuracy across 6 classes at 42ms/frame
+- 💻 **No depth sensors** or cloud connectivity required
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 💬 **AI CHATBOX**
+### 🌐 **NHAM**
 
-**Intelligent Communication Interface**
+**Network Health & Anomaly Monitor**
 
-<img src="https://img.shields.io/badge/Smart_Assistant-Real_Time_AI-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Minor_Project-FastAPI_+_Streamlit-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Frontend: HTML5 • Modern CSS • JavaScript
-AI Engine: Machine Learning Models
-Backend: API Integration • Data Processing
-Design: Responsive • User-Centric
+Backend: Python · FastAPI · Scheduled Probes
+Storage: SQLite / PostgreSQL (time-series)
+Frontend: Streamlit Dashboard
+DevOps: Docker · Telegram Alerting
 ```
 
 **📊 KEY INNOVATIONS**
 
-- 🤖 **AI-Powered**: Machine learning driven responses
-- 💡 **Smart Automation**: Intelligent query handling
-- 🎯 **User Engagement**: Interactive chat experience
-- 📱 **Responsive Design**: Cross-platform compatibility
-
-**🎯 TECHNICAL HIGHLIGHTS**
-
-- Real-time message processing
-- ML-based intent recognition
-- Seamless API integrations
-- Optimized performance architecture
+- 📊 **EWMA Anomaly Detection** with configurable smoothing & thresholds
+- 🐳 **Fully Dockerised** for reproducible deployment
+- 📡 Monitors ICMP latency, DNS resolution time & throughput
 
 </td>
 </tr>
@@ -290,72 +424,56 @@ Design: Responsive • User-Centric
 
 <div align="center">
 
-### 💼 **STUDENT MANAGEMENT SYSTEM**
+### ⚡ **REAL-TIME FRAUD DETECTION**
 
-**Complete Academic Administration Platform**
+**E2E Kubernetes Microservices Pipeline**
 
-<img src="https://img.shields.io/badge/ERP_Solution-Academic_Excellence-F39C12?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Scala_+_Kubernetes-Sub--Second_Decisioning-F39C12?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Frontend: HTML • CSS • JavaScript
-Backend: Database Management • Server Logic
-Features: CRUD Operations • Data Analytics
-Security: Authentication • Authorization
+Language: Scala · Streaming Architecture
+Infra: Kubernetes · Docker · GitHub Actions CI/CD
+Monitoring: Service Mesh · Health Instrumentation
+Focus: Real-time Fraud Scoring · Horizontal Scaling
 ```
 
 **📊 KEY INNOVATIONS**
 
-- 📚 **Complete Management**: Student records & performance
-- 📊 **Analytics Dashboard**: Real-time insights
-- 🔐 **Secure Access**: Role-based authentication
-- 💾 **Data Integrity**: Robust database architecture
-
-**🎯 TECHNICAL HIGHLIGHTS**
-
-- Comprehensive CRUD functionality
-- Performance tracking algorithms
-- Responsive data visualization
-- Scalable database design
+- ⚡ **Sub-second** transaction scoring
+- ☸️ **Full Kubernetes** microservices with complete CI/CD
+- 📈 Horizontally scalable streaming architecture
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🌾 **AGRI-RENTAL SYSTEM**
+### 📊 **TEXT ANALYSIS — NLP + STREAMLIT**
 
-**Smart Agricultural Equipment Platform**
+**Interactive NLP Pipeline Dashboard**
 
-<img src="https://img.shields.io/badge/AgriTech-IoT_Innovation-success?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/NLP-Sentiment_+_NER-1ABC9C?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Platform: Web Application • IoT Integration
-Features: Equipment Tracking • Rental Management
-Innovation: Smart Agriculture Solutions
-Database: Real-time Inventory System
+NLP: Sentiment Analysis · Keyword Extraction
+Features: Entity Recognition · Real-time Viz
+Frontend: Streamlit Interactive Dashboard
+Design: Modular · Reusable Pipeline Components
 ```
 
 **📊 KEY INNOVATIONS**
 
-- 🚜 **Equipment Tracking**: Real-time availability monitoring
-- 💳 **Rental Management**: Automated booking system
-- 👨‍🌾 **Farmer-Centric**: Intuitive user interface
-- 📈 **Analytics**: Usage patterns & optimization
-
-**🎯 TECHNICAL HIGHLIGHTS**
-
-- IoT sensor integration concepts
-- Geolocation-based equipment tracking
-- Payment gateway integration ready
-- Inventory management automation
+- 💬 **Sentiment analysis**, keyword extraction & entity recognition
+- 📊 **Real-time visualisations** via Streamlit
+- 🔧 Modular, reusable NLP pipeline components
 
 </td>
 </tr>
@@ -365,36 +483,28 @@ Database: Real-time Inventory System
 
 <div align="center">
 
-### 🔒 **CYBERCRIB 4.0**
+### 🔍 **ANOMALY DETECTION**
 
-**Cybersecurity Innovation Platform**
+**Statistical & ML Methods Benchmarking**
 
-<img src="https://img.shields.io/badge/Cybersecurity-Advanced_Protection-E74C3C?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Project--Based_Learning-Jupyter-E74C3C?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Security: Encryption • Authentication
-Platform: Web-based Security Tools
-Features: Threat Detection • Analysis
-Innovation: Security Best Practices
+Platform: Jupyter Notebook
+Methods: Statistical · ML-Based Detection
+Dataset: Real-World Data
+Output: Comparative Findings & Documentation
 ```
 
 **📊 KEY INNOVATIONS**
 
-- 🔐 **Security Tools**: Advanced protection mechanisms
-- 🛡️ **Threat Analysis**: Pattern detection systems
-- 🔍 **Vulnerability Scanning**: Automated checks
-- 📊 **Security Dashboard**: Real-time monitoring
-
-**🎯 TECHNICAL HIGHLIGHTS**
-
-- Security protocol implementation
-- Encryption algorithm integration
-- Authentication system design
-- Security audit frameworks
+- 🔬 Benchmarked multiple models on real-world datasets
+- 📉 Documented detection accuracy & false-positive rates
+- 📚 Explored statistical and ML-based anomaly detection methods
 
 </td>
 <td width="50%" valign="top">
@@ -425,13 +535,6 @@ Performance: Optimized Loading
 - 🔄 **Dynamic Content**: Real-time updates
 - 📱 **Mobile-First**: Responsive across devices
 
-**🎯 TECHNICAL HIGHLIGHTS**
-
-- Component architecture
-- State management implementation
-- API integration patterns
-- Progressive enhancement strategy
-
 </td>
 </tr>
 </table>
@@ -452,11 +555,14 @@ Performance: Optimized Loading
 ### **💻 PROGRAMMING LANGUAGES**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,go&theme=dark" /><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 **CORE COMPETENCIES**
@@ -469,14 +575,16 @@ Performance: Optimized Loading
 </td>
 <td width="33%" valign="top">
 
-### **🌐 WEB TECHNOLOGIES**
+### **🌐 WEB & BACKEND**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" /><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 **DEVELOPMENT SKILLS**
@@ -492,19 +600,21 @@ Performance: Optimized Loading
 ### **🤖 AI/ML & EMERGING TECH**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,docker&theme=dark" /><br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 **AI/ML EXPERTISE**
 
-- 🧠 **Machine Learning Models**
+- 🧠 **LLMs & Generative AI**
 - 💬 **Natural Language Processing**
-- 🤖 **Chatbot Development**
-- 🔮 **Deep Learning Exploration**
+- 🖐️ **Multimodal HCI / Computer Vision**
+- 🔮 **Deep Learning & Bayesian Inference**
 
 </td>
 </tr>
@@ -520,38 +630,44 @@ Performance: Optimized Loading
 <tr>
 <td width="25%" align="center">
 
-**VERSION CONTROL**
+**VERSION CONTROL & CI/CD**
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </td>
 <td width="25%" align="center">
 
-**IDEs & EDITORS**
+**CONTAINERS & INFRA**
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</td>
+<td width="25%" align="center">
+
+**DATABASES & STREAMING**
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />
+
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</td>
+<td width="25%" align="center">
+
+**IDEs & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=vscode,jupyter&theme=dark" />
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</td>
-<td width="25%" align="center">
-
-**DATABASES**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</td>
-<td width="25%" align="center">
-
-**PLATFORMS**
-
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
 </td>
 </tr>
@@ -586,11 +702,11 @@ Performance: Optimized Loading
 
 ### **🤖 AI & MACHINE LEARNING**
 
-<img src="https://img.shields.io/badge/AI/ML_Engineering-Growing-9C27B0?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/AI/ML_Engineering-Proficient-9C27B0?style=for-the-badge&labelColor=2C3E50"/>
 
 **CAPABILITIES**
+- LLMs & Agentic AI
 - NLP Applications
-- Chatbot Development
 - ML Model Training
 - Data Processing
 - Algorithm Design
@@ -678,7 +794,7 @@ Performance: Optimized Loading
 <!-- Current Focus & Learning -->
 <div align="center">
 
-## 🎯 **CURRENT FOCUS & 2024-25 ROADMAP**
+## 🎯 **CURRENT FOCUS & 2025-26 ROADMAP**
 
 </div>
 
@@ -689,36 +805,33 @@ Performance: Optimized Loading
 ### 📚 **ACTIVE LEARNING PATH**
 
 ```python
-learning_roadmap_2024 = {
-    "computer_science": {
-        "data_structures": "Advanced Trees, Graphs, DP",
-        "algorithms": "Optimization & Complexity Analysis",
-        "system_design": "Scalable Architecture Patterns"
+learning_roadmap_2025 = {
+    "distributed_systems": {
+        "stream_processing": "Apache Flink, Kafka Streams, Spark",
+        "microservices": "Kubernetes, Docker, CI/CD",
+        "edge_computing": "Embedded & IoT Systems"
     },
     
     "artificial_intelligence": {
-        "machine_learning": "Supervised & Unsupervised Learning",
-        "deep_learning": "Neural Networks & CNNs",
-        "nlp": "Transformers & Language Models",
-        "computer_vision": "Image Processing Techniques"
+        "generative_ai": "LLMs, LangChain, Agentic Workflows",
+        "deep_learning": "LSTM, GBT Ensembles, CNNs",
+        "computer_vision": "OpenCV, MediaPipe, HCI",
+        "bayesian_ml": "Adaptive Thresholding & Inference"
     },
     
     "communication_engineering": {
-        "networks": "TCP/IP, Network Security",
-        "signals": "Digital Signal Processing",
-        "iot": "Embedded Systems & Sensors"
+        "networks": "TCP/IP, Network Security, gRPC",
+        "iot": "NFC, GPS, Embedded Sensors"
     },
     
     "web_development": {
-        "frontend": "React, Advanced JavaScript",
-        "backend": "Node.js, Flask, FastAPI",
-        "databases": "SQL & NoSQL Optimization",
-        "cloud": "AWS, Azure Fundamentals"
+        "backend": "FastAPI, Node.js, gRPC",
+        "databases": "PostgreSQL, MongoDB, Redis",
+        "cloud": "Docker, Kubernetes, GitHub Actions"
     }
 }
 
-# Currently mastering
-focus = learning_roadmap_2024["artificial_intelligence"]
+focus = learning_roadmap_2025["artificial_intelligence"]
 print(f"🔥 Current Focus: {focus}")
 ```
 
@@ -735,33 +848,33 @@ interface ProjectPipeline {
   goals: string[];
 }
 
-const roadmap2025: ProjectPipeline = {
+const roadmap2026: ProjectPipeline = {
   shortTerm: [
-    "🤖 Advanced AI Chatbot with GPT Integration",
-    "🌐 Full-Stack E-commerce Platform",
-    "📊 Data Analytics Dashboard",
-    "🔐 Cybersecurity Tool Development"
+    "🤖 Expand ANNA with multimodal LLM integration",
+    "📡 Publish NHAM as open-source tool",
+    "🔬 Third patent in distributed AI systems",
+    "🧠 Vector DB + RAG pipeline project"
   ],
   
   mediumTerm: [
-    "🧠 Deep Learning Image Classification App",
-    "📱 Mobile App Development (React Native)",
-    "☁️ Cloud-Based Microservices Architecture",
-    "🎯 Real-time IoT Monitoring System"
+    "☁️ Cloud-native deployment of fraud pipeline",
+    "📱 Mobile HCI gesture control app",
+    "🌍 Open source contributions (LangChain / FastAPI)",
+    "🎯 IEEE AESS research paper submission"
   ],
   
   longTerm: [
     "🚀 Research Paper Publication",
-    "💼 Industry Internship at Tech Giant",
-    "🏆 Hackathon Competitions & Wins",
-    "👥 Open Source Contributions"
+    "💼 Full-time SWE / AI role at top tech company",
+    "🏆 International Hackathon wins",
+    "👥 Build impactful open source projects"
   ],
   
   goals: [
-    "Master Full-Stack Development",
-    "Achieve AI/ML Expertise",
+    "Master Distributed Systems & Gen AI",
+    "Achieve 3+ Patents",
     "Contribute to Open Source Projects",
-    "Build Impactful Solutions"
+    "Build Impactful, Real-World Solutions"
   ]
 };
 
@@ -796,41 +909,41 @@ Computer & Communication Engineering
 </td>
 <td width="25%" align="center">
 
-### **🔬 PROFESSIONAL**
+### **🏅 AWARDS**
 
-<img src="https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dean's_Excellence_Award-gold?style=for-the-badge&labelColor=2C3E50"/>
 
-**Active Member**
+**Certificate of Excellence**
 
-IEEE Student Branch
+Research & Innovation
 
-Technical Community Involvement
-
-</td>
-<td width="25%" align="center">
-
-### **💻 TECHNICAL**
-
-<img src="https://img.shields.io/badge/HackerRank-Active-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-**Problem Solver**
-
-Competitive Programming
-
-Continuous Skill Development
+Dept. of CCE, MUJ (Jul–Dec 2025)
 
 </td>
 <td width="25%" align="center">
 
-### **🚀 PROJECTS**
+### **📜 PATENTS**
 
-<img src="https://img.shields.io/badge/Portfolio-6+_Projects-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/2x_Indian_Patents-Filed-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
 
-**Diverse Domains**
+**2x Filed Patents**
 
-AI/ML • Web Dev • IoT • Security
+Stream Processing (2026)
 
-Innovation Across Technologies
+IoT Aadhaar Smartcard (2025)
+
+</td>
+<td width="25%" align="center">
+
+### **🔬 LEADERSHIP**
+
+<img src="https://img.shields.io/badge/IEEE_AESS-Joint_Gen_Secretary-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+
+**IEEE AESS — MUJ**
+
+Joint General Secretary
+
+Jan 2025 – Present
 
 </td>
 </tr>
@@ -853,14 +966,14 @@ Innovation Across Technologies
 
 ```yaml
 collaboration_interests:
-  - AI/ML Projects: Chatbots, NLP, Computer Vision
+  - Generative AI: LangChain, LLMs, RAG, Agents
+  - Distributed Systems: Stream Processing, Microservices
+  - Multimodal HCI: Gesture & Voice Interfaces
   - Web Development: Full-Stack Applications
   - IoT Solutions: Smart Systems & Automation
   - Cybersecurity: Security Tools & Analysis
   - Open Source: Contributing to meaningful projects
-  - Hackathons: Team competitions & innovation
-  - Research: Academic papers & publications
-  - Learning: New technologies & frameworks
+  - Research: Academic papers & patent co-invention
 ```
 
 **🌟 Always open to innovative ideas and teamwork!**
@@ -924,7 +1037,7 @@ collaboration_interests:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling" />
 
 > **"Innovation distinguishes between a follower and a leader."**  
-> _— CCE Engineer • AI Enthusiast • Future Tech Leader —_
+> _— CCE Engineer • AI Innovator • Patent Inventor • Future Tech Leader —_
 
 <br/>
 
